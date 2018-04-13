@@ -1,5 +1,5 @@
 NAME="teckit"
-VERSION=2.5.6
+VERSION=2.5.7
 RELEASE=1
 
 HOMEPAGE="http://scripts.sil.org/teckit"
@@ -23,4 +23,4 @@ teckit_CONTENTS="usr/bin/*.exe usr/share"
 libteckit0_CONTENTS="usr/bin/cygTECkit-0.dll usr/bin/cygTECkit_Compiler-0.dll"
 libteckit_devel_CONTENTS="usr/include usr/lib"
 
-SRC_URI="https://github.com/silnrsi/${PN}/archive/${VERSION}.tar.gz"
+SRC_URI="https://github.com/silnrsi/${PN}/archive/v${PV}.tar.gz"
