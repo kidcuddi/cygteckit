@@ -20,5 +20,7 @@ mapping tables in a specific binary format (for which documentation is
 available); there is a compiler that creates such tables from a
 human-readable mapping description (a simple text file).
 
+This is an update to the latest upstream release.
+
 Ken Brown
 Cygwin's TECkit maintainer
