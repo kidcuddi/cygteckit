@@ -1,26 +1,22 @@
-From cygwin-announce-teckit-2.5.7-1 Fri Apr 13 13:09:27 2018
-From: Ken Brown <kbrown@cornell.edu>
-To: cygwin-announce@cygwin.com
-Date: Fri, 13 Apr 2018 13:09:27 -0400
-Message-Id: <20180413130927.9292-1-kbrown@cornell.edu>
-Subject: teckit 2.5.7-1
+Subject: teckit 2.5.8-1
 
 The following packages have been uploaded to the Cygwin distribution:
 
-* teckit-2.5.7-1
-* libteckit0-2.5.7-1
-* libteckit-devel-2.5.7-1
+* teckit-2.5.8-1
+* libteckit0-2.5.8-1
+* libteckit-devel-2.5.8-1
 
 TECkit is a low-level toolkit intended to be used by other
 applications that need to perform encoding conversions (e.g., when
 importing legacy data into a Unicode-based application).  The primary
 component of the TECkit package is therefore a library that performs
-conversions; this is the TECkit engine.  The engine relies on
-mapping tables in a specific binary format (for which documentation is
+conversions; this is the TECkit engine.  The engine relies on mapping
+tables in a specific binary format (for which documentation is
 available); there is a compiler that creates such tables from a
 human-readable mapping description (a simple text file).
 
-This is an update to the latest upstream release.
+This is the latest upstream release, which is an update for Unicode
+11.
 
 Ken Brown
 Cygwin's TECkit maintainer
