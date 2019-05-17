@@ -1,10 +1,15 @@
-Subject: teckit 2.5.8-1
+From cygwin-announce-teckit-2.5.9-1 Fri May 17 17:26:23 2019
+From: Ken Brown <kbrown@cornell.edu>
+To: cygwin-announce@cygwin.com
+Date: Fri, 17 May 2019 17:26:23 -0400
+Message-Id: <20190517172623.6200-1-kbrown@cornell.edu>
+Subject: teckit 2.5.9-1
 
 The following packages have been uploaded to the Cygwin distribution:
 
-* teckit-2.5.8-1
-* libteckit0-2.5.8-1
-* libteckit-devel-2.5.8-1
+* teckit-2.5.9-1
+* libteckit0-2.5.9-1
+* libteckit-devel-2.5.9-1
 
 TECkit is a low-level toolkit intended to be used by other
 applications that need to perform encoding conversions (e.g., when
@@ -15,8 +20,8 @@ tables in a specific binary format (for which documentation is
 available); there is a compiler that creates such tables from a
 human-readable mapping description (a simple text file).
 
-This is the latest upstream release, which is an update for Unicode
-11.
+This is an update to the latest upstream release.  The main change is
+that Unicode 12 is now supported.
 
 Ken Brown
 Cygwin's TECkit maintainer
